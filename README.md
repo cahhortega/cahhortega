@@ -1,16 +1,20 @@
-### Hi there 👋
+### 👋 Hi there, my name is Carolina Ortega
+#### 💻 Bacharel of Computer Science
+📱 iOS Developer at Apple Developer Academy | Mackenzie.
 
-<!--
-**cahhortega/cahhortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Looking for new opportunities to help me become a better developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/carolina-garcia-ortega/">
+        <img src="https://img.shields.io/badge/Linkedin-0e76a8?&style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/cahhortega/">
+        <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+    <a href = "mailto:cahhortega@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.facebook.com/cahh.ortega">
+        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
+    </a>
+</p>
