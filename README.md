@@ -2,7 +2,7 @@
 #### 💻 Bacharel of Computer Science
 📱 iOS Developer at Apple Developer Academy | Mackenzie.
 
-Looking for new opportunities to help me become a better developer.
+I'm looking for new opportunities to help me become a better developer.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/carolina-garcia-ortega/">
