@@ -4,15 +4,25 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/carolina-garcia-ortega/">
-        <img src="https://img.shields.io/badge/Linkedin-0e76a8?&style=flat-square&logo=linkedin&logoColor=white" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
+    </a>
+    <a href = "mailto:cahhortega@outlook.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" target="_blank">
     </a>
     <a href="https://www.instagram.com/cahhortega/">
-        <img src="https://img.shields.io/badge/Instagram-c13584?&style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-    <a href = "mailto:cahhortega@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/cahhortega-%23E4405F.svg?logo=Instagram&logoColor=white" />
     </a>
     <a href="https://www.facebook.com/cahh.ortega">
-        <img src="https://img.shields.io/badge/Facebook-3b5998?&style=flat-square&logo=facebook&logoColor=white" />
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
     </a>
+    <a href="https://medium.com/@cahhortega">
+        <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+    </a>
+    <div>    
+    <a href="https://github.com/cahhortega">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahhortega&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cahhortega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </div>
 </p>
+    
+
