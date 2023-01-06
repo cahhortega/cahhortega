@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
     </a>
         <a href="https://perfect-piccolo-bfc.notion.site/Carolina-Garcia-Ortega-8874c2821f314341a151633cf68dbc3e">
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=notion&logoColor=white" />
     </a>
     <a href = "mailto:cahhortega@outlook.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white" target="_blank">
