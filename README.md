@@ -22,12 +22,12 @@
         <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
     </a>
 </p>
-<p>
+<!-- <p>
     <div>  
     <a href="https://github.com/cahhortega">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahhortega&layout=compact&langs_count=7&theme=dracula"/>
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=cahhortega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </div>
-</p>
+</p> -->
     
 
