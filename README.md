@@ -1,7 +1,8 @@
 ### 👋 Hi there, my name is Carolina Ortega
 #### 💻 Bacharel of Computer Science
 📱 iOS Developer at Itaú Unibanco
-📱 Alumni | Apple Developer Academy | Mackenzie.
+
+Alumni | Apple Developer Academy | Mackenzie.
 <p align="left">
     <a href="https://www.linkedin.com/in/carolina-garcia-ortega/">
         <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
